@@ -1,2 +1,2 @@
-# Club-Project
-**Frontend of the website for asps club**
+# Rangrave
+**Rangrave Website Landing Page**
